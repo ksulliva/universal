@@ -1,0 +1,4 @@
+# a path:
+/.well-known/apple-app-site-association
+  # headers for that path:
+  Content-Type: application/json
