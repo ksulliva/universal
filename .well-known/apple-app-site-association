@@ -3,7 +3,7 @@
         "apps": [],
         "details": [
             {
-                "appID": "com.nerdery.petfinder",
+                "appID": "7Q2ZL6T85L.com.nerdery.petfinder",
                 "paths": [
                     "/dog/*",
                     "/cat/*",
