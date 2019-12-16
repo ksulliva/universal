@@ -1,0 +1,35 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "7Q2ZL6T85L.com.nerdery.petfinder",
+                "paths": [
+                    "/dog/*",
+                    "/cat/*",
+                    "/rabbit/*",
+                    "/small-furry/*",
+                    "/horse/*",
+                    "/bird/*",
+                    "/scales-fins-others/*",
+                    "/barnyard/*",
+                    "/user/did-you-adopt/apply/PF-PM-02/"
+                ]
+            },
+            {
+                "appID": "com.discovery.petfinder",
+                "paths": [
+                    "/dog/*",
+                    "/cat/*",
+                    "/rabbit/*",
+                    "/small-furry/*",
+                    "/horse/*",
+                    "/bird/*",
+                    "/scales-fins-others/*",
+                    "/barnyard/*",
+                    "/user/did-you-adopt/apply/PF-PM-02/"
+                ]
+            }
+        ]
+    }
+}
