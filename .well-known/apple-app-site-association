@@ -3,7 +3,7 @@
         "apps": [],
         "details": [
             {
-                "appID": "7Q2ZL6T85L.com.nerdery.petfinder",
+                "appID": "com.nerdery.petfinder",
                 "paths": [
                     "/dog/*",
                     "/cat/*",
@@ -17,7 +17,7 @@
                 ]
             },
             {
-                "appID": "com.discovery.petfinder",
+                "appID": "7Q2ZL6T85L.com.discovery.petfinder",
                 "paths": [
                     "/dog/*",
                     "/cat/*",
